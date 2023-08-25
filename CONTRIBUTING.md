@@ -1,4 +1,4 @@
-# Contributing to HHVM
+# Contributing to HHVMvdfszv
 
 We'd love to have your help in making HHVM better. Before jumping into the code, please familiarize yourself with our [coding conventions](hphp/doc/coding-conventions.md). We're also working on a [Hacker's Guide to HHVM](hphp/doc/hackers-guide). It's still very incomplete, but if there's a specific topic you'd like to see addressed sooner rather than later, let us know. For documentation and any other problems, please open an [issue](https://github.com/facebook/hhvm/issues), or better yet, [fork us and send a pull request](https://github.com/facebook/hhvm/pulls). Join us on Freenode in [#hhvm](https://webchat.freenode.net/?channels=hhvm) for general discussion, or [#hhvm-dev](https://webchat.freenode.net/?channels=hhvm-dev) for development-oriented discussion.
 
